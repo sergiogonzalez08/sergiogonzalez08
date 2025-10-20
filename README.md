@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gonzalez</h1>
 <h3 align="center">DevOps Engineer | SQL DBA</h3>
 
-- 🌱 I’m currently learning **Azure Certifications, Linux Administration, IAC**
+- 🌱 I’m currently learning **IAC (Terraform), Linux Administration**
 
 - 📫 How to reach me **sgonzalez.tech@gmail.com**
 
