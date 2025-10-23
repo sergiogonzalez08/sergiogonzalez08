@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gonzalez</h1>
-<h3 align="center">DevOps Engineer | SQL DBA</h3>
+<h3 align="center">Systems Administrator | Cloud Infrastructure | SQL Administration</h3>
 
-- 🌱 I’m currently learning **IAC (Terraform), Linux Administration, Azure & AWS Cloud Certifications**
+- 🌱 I’m currently learning Python, IAC (Terraform)
 
 - 📫 How to reach me **sgonzalez.tech@gmail.com**
 
