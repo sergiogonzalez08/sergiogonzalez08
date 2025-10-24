@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gonzalez</h1>
 <h3 align="center">Systems Administrator | Cloud Infrastructure | SQL Administration</h3>
 
-- 🌱 I’m currently learning Python, IAC (Terraform)
+- 🌱 I’m currently learning Python, IAC (Terraform), CICD
 
 - 📫 How to reach me **sgonzalez.tech@gmail.com**
 
