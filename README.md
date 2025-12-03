@@ -1,15 +1,48 @@
 <h1 align="center">Hi 👋, I'm Sergio Gonzalez</h1>
-<h3 align="center">Systems Administrator | Cloud Infrastructure | SQL Administration</h3>
+<h3 align="center">System Administrator | Cloud Infrastructure | Site Reliability</h3>
 
-- 🌱 I’m currently learning Python, IAC (Terraform), CICD
+---
 
-- 📫 How to reach me **sgonzalez.tech@gmail.com**
+### 🌱 About Me
 
-<h3 align="left">Connect with me:</h3>
+I am an experienced **System Administrator** with a strong background in **Windows and Linux environments**, cloud infrastructure, and site reliability.  
+I specialize in managing and automating infrastructure, deploying and maintaining cloud resources, and ensuring highly available systems.  
+
+I am currently expanding my skills in **Infrastructure as Code, AWS cloud engineering, and containerization** to deliver scalable, reliable, and secure solutions.
+
+---
+
+### 💻 Skills & Tools
+
+☁️ **Cloud & IaaS:** AWS, Azure, Terraform  
+🖥️ **System Administration:** Windows Server, Linux, PowerShell, Bash  
+🐳 **Containers & Orchestration:** Docker, Kubernetes (basics)  
+🗄️ **Databases & Monitoring:** SQL Server, System Monitoring Tools  
+🔧 **Version Control & Automation:** Git, CI/CD concepts  
+
+---
+
+### 🚀 Projects & Areas of Focus
+
+I am actively working on projects that demonstrate my expertise in cloud infrastructure and systems management, including:  
+
+- Deploying cloud-based web applications using AWS services (EC2, S3)  
+- Automating infrastructure and environment setup with Terraform  
+- Configuring secure package management using AWS CodeArtifact  
+- Integrating GitHub with cloud pipelines and IAM-based access controls  
+- Managing multi-environment infrastructure for development, testing, and production  
+
+These projects showcase hands-on experience in cloud engineering, system administration, and reliable infrastructure deployment.
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
 <a href="https://linkedin.com/in/sgonzalez08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sgonzalez08" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+**Email:** sgonzalez.tech@gmail.com
+
+---
 
